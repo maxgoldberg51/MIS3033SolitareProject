@@ -1,0 +1,6 @@
+﻿
+<models:Card
+    xmlns:models="clr-namespace:Solitaire.Common.Models;assembly=Solitaire.Common"
+    FaceUp="True"
+    Suit="Diamonds"
+    Value="Ace" />
